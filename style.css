@@ -1,0 +1,30 @@
+body{
+    padding-top: 90px;
+}
+.login{
+    height: 300px;
+    width: 75%;
+    background-color: white;
+    margin-top: 5%;
+    margin-left: 10%;
+    border-radius: 20px;  
+   
+}
+.text-bold{
+    margin-top: 20px;
+    text-align: center;
+}
+.input-group{
+    
+    margin-top: 20px;
+}
+#button{
+    text-align: center;
+    margin-top: 20px;
+}
+.submit{
+    margin-top: 10px;
+}
+.speech{
+    padding-bottom: 20px;
+}

@@ -59,9 +59,18 @@ body{
 .input-group{
     margin-top: 30px;
 }
-#button{
-    margin-top: 30px;
+#depositbutton{
+    margin-top: 50px;
+}
+#withdrawbutton{
+    margin-top: 50px;
 }
 #transactions-area{
-    
+    display: none;
+}
+#depositInput{
+    margin-top: 20px;
+}
+#withdrawInput{
+    margin-top: 20px;
 }
